@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastify-cors": "^6.1.0",
+    "prisma": "^5.13.0"
+  }
+}
